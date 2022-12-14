@@ -1,2 +1,2 @@
 # YTDL
-A video downloader made in python that pulls the highest quality video available, WITH A GUI
+A Youtube video downloader made in python that pulls the highest quality video available, WITH A GUI
